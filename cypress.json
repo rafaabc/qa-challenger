@@ -1,0 +1,12 @@
+{
+  "chromeWebSecurity": false,
+  "watchForFileChanges": false,
+  "viewportWidth": 1440,
+  "viewportHeight": 900,
+  "defaultCommandTimeout": 8000,
+  "pageLoadTimeout": 30000,
+  "env": {
+    "baseUrl": "https://getlabor.com.br/"
+  },
+  "projectId": "6t8mzz"
+}
