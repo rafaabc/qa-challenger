@@ -17,3 +17,4 @@ describe('checks "https://getlabor.com.br/" homepage opens successfully', functi
     console.log("Title of homepage is: " + title);
   });
 });
+//teste
